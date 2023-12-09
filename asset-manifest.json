@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https%20://Abhi-Stephen.github.io/projectp/static/css/main.b5164c07.css",
-    "main.js": "/https%20://Abhi-Stephen.github.io/projectp/static/js/main.d0c07984.js",
-    "static/js/787.8fd0495c.chunk.js": "/https%20://Abhi-Stephen.github.io/projectp/static/js/787.8fd0495c.chunk.js",
-    "index.html": "/https%20://Abhi-Stephen.github.io/projectp/index.html",
-    "main.b5164c07.css.map": "/https%20://Abhi-Stephen.github.io/projectp/static/css/main.b5164c07.css.map",
-    "main.d0c07984.js.map": "/https%20://Abhi-Stephen.github.io/projectp/static/js/main.d0c07984.js.map",
-    "787.8fd0495c.chunk.js.map": "/https%20://Abhi-Stephen.github.io/projectp/static/js/787.8fd0495c.chunk.js.map"
+    "main.css": "/projectp/static/css/main.b5164c07.css",
+    "main.js": "/projectp/static/js/main.5b677485.js",
+    "static/js/787.8fd0495c.chunk.js": "/projectp/static/js/787.8fd0495c.chunk.js",
+    "index.html": "/projectp/index.html",
+    "main.b5164c07.css.map": "/projectp/static/css/main.b5164c07.css.map",
+    "main.5b677485.js.map": "/projectp/static/js/main.5b677485.js.map",
+    "787.8fd0495c.chunk.js.map": "/projectp/static/js/787.8fd0495c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5164c07.css",
-    "static/js/main.d0c07984.js"
+    "static/js/main.5b677485.js"
   ]
 }
